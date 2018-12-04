@@ -1,5 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from "react"
+import ReactDOM from "react-dom"
+import Chatkit from "@pusher/chatkit"
 
 
 const testToken = "https://us1.pusherplatform.io/services/chatkit_token_provider/v1/6ed47bf0-167a-4929-84c2-1ede5114a7f6/token"

@@ -15,5 +15,6 @@ Just a React App to mess around with
 <pre>npm i -S react react-dom</pre>
 <pre>npm i -D babel-core babel-loader@7 babel-preset-react</pre>
 <pre>npm i -D webpack webpack-dev-server html-webpack-plugin</pre>
+<pre>npm i -S express cors body-parser pusher-chatkit-server</pre>
 <pre>npm run build</pre>
 <pre>npm run start</pre>
